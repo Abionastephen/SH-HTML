@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        #
+    </title>
+</head>
+<style>
+
+</style>
+
+<body>
+    <h2>Stores Hours</h2>
+    <table bgcolor="black" width="700px">
+        <tr bgcolor="grey">
+            <th width="100px">Sunday</th>
+            <th width="100px">Monday</th>
+            <th width="100px">Tuesday</th>
+            <th width="100px">Wednesday
+            <th>
+            <th width="100px">Thursday</th>
+            <th width="100px">Friday</th>
+            <th width="100px">Saturday</th>
+        </tr>
+        <tr bgcolor="lightgrey" align="center">
+            <td>Closed</td>
+            <td>9-5</td>
+            <td>9-5</td>
+            <td>9-5</td>
+            <td>9-5</td>
+            <td>9-5</td>
+            <td>Closed</td>
+        </tr>
+    </table>
+    <br>
+    <br>
+    <!--Going into form-->
+    <form>
+        <div>
+            First name<br>
+            <input type="text" name="First Name">
+<br>
+            Email<br>
+            <input type="text" name="email">
+    </form>
+    </div>
+    
+</body>
+
+</html>
